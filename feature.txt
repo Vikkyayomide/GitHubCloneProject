@@ -1,1 +1,2 @@
 This is a new feature
+This line proves the file was modified on feature-greeting
